@@ -31,6 +31,7 @@
 
 ## Most used languages
 
+1. Hoping to use a lot more JS in the future
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTrio&theme=nightowl)
 
 ![Profile views](https://gpvc.arturio.dev/TheTrio)
