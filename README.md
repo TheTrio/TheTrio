@@ -10,23 +10,22 @@
 
 ## What I'm currently working on
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=DearDiary&theme=nightowl)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickConvert&theme=nightowl)
+[![Dear Diary](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=DearDiary&theme=nightowl)](https://github.com/TheTrio/DearDiary)
+[![SlickConvert](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickConvert&theme=nightowl)](https://github.com/TheTrio/SlickConvert)
 
 ## Some of what I've done
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Discord_Find_Occurrences&theme=nightowl)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickPad&theme=nightowl)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickCalculate&theme=nightowl)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Covid19-India-Telegram-Bot&theme=nightowl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Discord_Find_Occurrences&theme=nightowl)](https://github.com/TheTrio/Discord_Find_Occurrences)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickPad&theme=nightowl)](https://github.com/TheTrio/SlickPad)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickCalculate&theme=nightowl)](https://github.com/TheTrio/SlickCalculate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Covid19-India-Telegram-Bot&theme=nightowl)](https://github.com/TheTrio/Covid19-India-Telegram-Bot)
 
 ## Some of my more fun projects
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=HackerView&theme=nightowl)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=TypingTest&theme=nightowl)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Chrome-Dinosaur-Game&theme=nightowl)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Horizon&theme=nightowl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=HackerView&theme=nightowl)](https://github.com/TheTrio/HackerView)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=TypingTest&theme=nightowl)](https://github.com/TheTrio/TypingTest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Chrome-Dinosaur-Game&theme=nightowl)](https://github.com/TheTrio/Chrome-Dinosaur-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Horizon&theme=nightowl)](https://github.com/TheTrio/Horizon)
 
 ## Languages
 
