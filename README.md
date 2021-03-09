@@ -11,12 +11,12 @@
 ## What I'm currently working on
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=DearDiary&theme=nightowl)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickConvert&theme=nightowl)
 
 ## Some of what I've done
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Discord_Find_Occurrences&theme=nightowl)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickPad&theme=nightowl)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickConvert&theme=nightowl)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickCalculate&theme=nightowl)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Covid19-India-Telegram-Bot&theme=nightowl)
