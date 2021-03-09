@@ -22,7 +22,7 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Covid19-India-Telegram-Bot&theme=nightowl)
 
-## Some of my fun projects
+## Some of the more fun projects I've done
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=HackerView&theme=nightowl)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=TypingTest&theme=nightowl)
