@@ -1,12 +1,10 @@
 # Hello 👋 I'm Shashwat
 
-## About Me
-
 1. Developing software to solve problems. Trying to have fun at the same time. 
 2. Mostly use Java and Python 
 3. Developed native applications for quite some time. Trying the Web now.
 4. Can be found reading books every once in a while. 
-5. Trying to write more frequently on StackOverflow. 
+5. Trying to write more frequently on StackOverflow(I can be found under the username [dumbpotato21](https://stackoverflow.com/users/5055190/dumbpotato21))
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTrio&show_icons=true&count_private=tru&theme=dark) 
 
