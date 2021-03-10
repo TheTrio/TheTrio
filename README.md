@@ -30,7 +30,7 @@
 ## Languages
 
 1. Started programming in Java and have enjoyed it ever since.
-2. Used python for shorter scripts
+2. Use python for shorter scripts
 3. Hoping to use a lot more JS in the future
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTrio&theme=nightowl)
