@@ -12,6 +12,7 @@
 
 [![Dear Diary](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=DearDiary&theme=nightowl)](https://github.com/TheTrio/DearDiary)
 [![SlickConvert](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickConvert&theme=nightowl)](https://github.com/TheTrio/SlickConvert)
+[![Meet Dark](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=MeetDark&theme=nightowl)](https://github.com/TheTrio/MeetDark)
 
 ## Some of what I've done
 
