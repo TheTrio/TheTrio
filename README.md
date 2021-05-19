@@ -16,7 +16,7 @@
 
 ## Some of what I've done
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=prettierlichess&theme=nightowl)](https://github.com/TheTrio/prettierlichess)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=stylishlichess&theme=nightowl)](https://github.com/TheTrio/stylishLichess)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickPad&theme=nightowl)](https://github.com/TheTrio/SlickPad)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickCalculate&theme=nightowl)](https://github.com/TheTrio/SlickCalculate)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Covid19-India-Telegram-Bot&theme=nightowl)](https://github.com/TheTrio/Covid19-India-Telegram-Bot)
