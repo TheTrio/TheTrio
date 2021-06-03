@@ -1,12 +1,6 @@
 # Hello 👋 I'm Shashwat
 
-1. Developing software to solve problems. Trying to have fun at the same time. 
-2. Mostly use Java and Python 
-3. Developed native applications for quite some time. Trying the Web now.
-4. Can be found reading books every once in a while. 
-5. Trying to write more frequently on StackOverflow(I can be found under the username [dumbpotato21](https://stackoverflow.com/users/5055190/dumbpotato21))
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTrio&show_icons=true&count_private=tru&theme=dark) 
+Just trying to have some fun. 
 
 ## What I'm currently working on
 
@@ -14,26 +8,13 @@
 [![SlickConvert](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickConvert&theme=nightowl)](https://github.com/TheTrio/SlickConvert)
 [![Meet Dark](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=MeetDark&theme=nightowl)](https://github.com/TheTrio/MeetDark)
 
+## What I've contributed to
+
+[![Meet Dark](https://github-readme-stats.vercel.app/api/pin/?username=prettierlichess&repo=prettierlichess&theme=nightowl)](https://github.com/prettierlichess/prettierlichess)
+
 ## Some of what I've done
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=stylishlichess&theme=nightowl)](https://github.com/TheTrio/stylishLichess)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickPad&theme=nightowl)](https://github.com/TheTrio/SlickPad)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickCalculate&theme=nightowl)](https://github.com/TheTrio/SlickCalculate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Discord_Find_Occurrences&theme=nightowl)](https://github.com/TheTrio/Discord_Find_Occurrences)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Covid19-India-Telegram-Bot&theme=nightowl)](https://github.com/TheTrio/Covid19-India-Telegram-Bot)
-
-## Some of my more fun projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=HackerView&theme=nightowl)](https://github.com/TheTrio/HackerView)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=TypingTest&theme=nightowl)](https://github.com/TheTrio/TypingTest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Chrome-Dinosaur-Game&theme=nightowl)](https://github.com/TheTrio/Chrome-Dinosaur-Game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Horizon&theme=nightowl)](https://github.com/TheTrio/Horizon)
-
-## Languages
-
-1. Started programming in Java and have enjoyed it ever since.
-2. Use python for shorter scripts
-3. Hoping to use a lot more JS in the future
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTrio&theme=nightowl)
-
-![Profile views](https://gpvc.arturio.dev/TheTrio)
