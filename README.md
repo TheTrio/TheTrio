@@ -17,3 +17,5 @@ Just trying to have some fun.
 [![SlickPad](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=SlickPad&theme=nightowl)](https://github.com/TheTrio/SlickPad)
 [![Discord Find Occurrences](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Discord_Find_Occurrences&theme=nightowl)](https://github.com/TheTrio/Discord_Find_Occurrences)
 [![Covid Info Bot](https://github-readme-stats.vercel.app/api/pin/?username=TheTrio&repo=Covid19-India-Telegram-Bot&theme=nightowl)](https://github.com/TheTrio/Covid19-India-Telegram-Bot)
+
+More of my projects can be found [here](https://github.com/TheTrio?tab=repositories)
