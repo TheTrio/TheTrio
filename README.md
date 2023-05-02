@@ -1,3 +1,3 @@
-#  Hello 👋 I'm Shashwat
+# Hello 👋 I'm Shashwat
 
-I do all things Python and Web Development. Was the GSoC 22 intern at Wikimedia. Write blogs [here](https://thetrio.dev/)
+Do all things technology. Write blogs [here](https://thetrio.dev/). Say Hi on [Mastodon](https://mastodon.social/@thetrio)!
