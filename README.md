@@ -1,3 +1,3 @@
 # Hello 👋 I'm Shashwat
 
-Do all things technology. Write blogs [here](https://thetrio.dev/). Say Hi on [Mastodon](https://mastodon.social/@thetrio)!
+I flip bits on a computer. Write blogs [here](https://thetrio.dev/)
